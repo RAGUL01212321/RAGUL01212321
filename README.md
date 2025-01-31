@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Hello I'm Ragul !
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 <!--
 **RAGUL01212321/RAGUL01212321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
