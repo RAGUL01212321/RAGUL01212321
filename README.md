@@ -1,4 +1,4 @@
-## 👋 Hello I'm Ragul !
+👋 Hello I'm Ragul !
 # 💫 About Me:
 🎓 University Student <br>🧠 AI and machine learning <br>🏥 Medical tech and bioengineering 
 # 💻 Tech Stack:
