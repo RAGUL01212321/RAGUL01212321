@@ -1,6 +1,8 @@
 ## 👋 Hello I'm Ragul !
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAGUL01212321&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <!--
 **RAGUL01212321/RAGUL01212321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
