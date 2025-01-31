@@ -1,26 +1,41 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
-        uses: Platane/snk@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: "RAGUL01212321"
-          outputs: dist/snake.svg
+          python-version: '3.x'
 
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Generate Snake Animation
+        run: |
+          python generate_snake.py
+          ls -al  # Check if snake.svg exists
+
+      - name: Create Output Directory
+        run: mkdir -p output/dist
+
+      - name: Move Snake.svg
+        run: mv snake.svg output/dist/snake.svg
+
+      - name: Push Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add output/dist/snake.svg
+          git commit -m "Generate snake animation"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
