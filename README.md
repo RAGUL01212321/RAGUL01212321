@@ -1,6 +1,4 @@
 ## 👋 Hello I'm Ragul !
-
-### 🐍 Contribution Snake:
 ![snake gif](https://github.com/RAGUL01212321/RAGUL01212321/blob/output/github-snake-dark.svg)
 
 <!--
