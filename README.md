@@ -1,7 +1,7 @@
 ## 👋 Hello I'm Ragul !
 
 ### 🐍 Contribution Snake:
-![Snake animation](https://github.com/RAGUL01212321/RAGUL01212321/blob/output/dist/snake.svg)
+![snake gif](https://github.com/RAGUL01212321/RAGUL01212321/blob/output/github-snake-dark.svg)
 
 <!--
 **RAGUL01212321/RAGUL01212321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
