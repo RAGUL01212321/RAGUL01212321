@@ -7,9 +7,3 @@
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Ragul01212321&theme=dark&hide_border=true&background=0d1117&stroke=ffffff15&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=666666&currStreakLabel=666666&sideLabels=666666&dates=444444"/>
 </div>
-
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v6twmetx0by8tfuvsv5iljzgh&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff003c&bar_color_cover=false"/>
-</div>
-
