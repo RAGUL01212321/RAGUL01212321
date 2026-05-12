@@ -5,6 +5,13 @@
  
 Other stuff I can handle: <br>
   ![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdoaGVic201OTNkbGw4YTh0ZDFwaWZrM2dnbnd3d3M4cDl2Ym1sdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif" width="340"/>
+  &nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejE1YmJxcGM4N2d2cmU3anZsNXg3cWk2MXlqcWtoZzVmaG56enA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nWPLGmsjvdQ4g/giphy.gif" width="340"/>
+</div>
+
 <!--
 **RAGUL01212321/RAGUL01212321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
