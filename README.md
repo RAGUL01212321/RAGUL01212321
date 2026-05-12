@@ -9,5 +9,7 @@
 </div>
 
 
-
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v6twmetx0by8tfuvsv5iljzgh&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff003c&bar_color_cover=false"/>
+</div>
 
